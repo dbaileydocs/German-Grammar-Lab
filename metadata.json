@@ -1,0 +1,6 @@
+{
+  "name": "German Structure Lab",
+  "description": "Interactive German A1–B1 grammar and syntax practice across 1,000 sentences covering prepositions, separable verbs, and clause word order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
